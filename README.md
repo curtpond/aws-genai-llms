@@ -3,7 +3,7 @@ Repo for the AWS/DeepLearning Specialization Generative AI with Large Language M
 
 This is a three-week course that covers: 
 
-1. Week 1: Generative AI use cases, project lifecycle, and model pre-training
+1. [Week 1: Generative AI use cases, project lifecycle, and model pre-training](week1)
 2. Week 2: Fine-tuning and evaluating large language models
 3. Week 3: Reinforcement learning and LLM-powered applications
 
